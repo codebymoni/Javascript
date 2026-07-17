@@ -1,3 +1,3 @@
-let name="sanjivani";
-let sirname="kamble";
+let name="monika";
+let sirname="yachawad";
 console.log(name+" "+sirname);
